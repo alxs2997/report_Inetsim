@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<network-scanner-result>
+  <summary>
+    <title>SoftPerfect Network Scanner</title>
+    <range>192.168.72.129-192.168.72.141</range>
+    <date>2022-11-11T22:51:05</date>
+  </summary>
+  <devices>
+    <item>
+      <ip-address>192.168.72.141</ip-address>
+      <mac-address>000C293F9759</mac-address>
+      <response-time>0</response-time>
+      <ports>
+        <item>domain</item>
+        <item>smtp</item>
+      </ports>
+      <hostname/>
+      <langroup/>
+      <os>Unknown platform (0x0)</os>
+      <tod/>
+      <uptime/>
+      <users/>
+      <dns>Standard query: OK, Status request: OK</dns>
+      <tftp/>
+      <ntp>12/11/2022 04:40:26 UTC</ntp>
+      <nbns/>
+      <mssql/>
+      <httpbanner/>
+      <ttl>64</ttl>
+      <ssl/>
+      <snmp>
+        <nombre-de-host/>
+      </snmp>
+      <registry>
+        <versión-bios/>
+        <propietario-registrado/>
+        <versión-de-windows/>
+      </registry>
+      <remxml>
+        <título-de-página-html>Cannot connect to server on host '192.168.72.141':##No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión..##Socket Error Code: 10061($274D)</título-de-página-html>
+      </remxml>
+      <powershell>
+        <versión-de-servidor-sql>Error: [192.168.72.141] Error de conexión al servidor remoto 192.168.72.141. Mensaje de error: El cliente WinRM no puede, procesar la solicitud. Si el esquema de autenticación es distinto de Kerberos o si el equipo cliente no está unido a, un dominio, se debe usar el transporte HTTPS o agregar el equipo de destino al valor de configuración TrustedHosts., Use winrm.cmd para configurar TrustedHosts. Tenga en cuenta que es posible que no se autentiquen los equipos de la, lista TrustedHosts. Para obtener más información, ejecute el siguiente comando: winrm help config. Para obtener más, información, consulte el tema de la Ayuda about_Remote_Troubleshooting., + CategoryInfo          : OpenError: (192.168.72.141:String) [], PSRemotingTransportException, + FullyQualifiedErrorId : ServerNotTrusted,PSSessionStateBroken</versión-de-servidor-sql>
+      </powershell>
+      <ssh>
+        <versión-de-sistema/>
+      </ssh>
+      <scripting>
+        <ejemplo-dns-incorporado/>
+        <dirección-localhost>192.168.72.1</dirección-localhost>
+        <configuración-ip-y-mac>El servidor remoto no existe o no está disponible: 'GetObject'</configuración-ip-y-mac>
+      </scripting>
+      <virtual>
+        <concatenación-simple>00-0C-29-3F-97-59 192.168.72.141</concatenación-simple>
+      </virtual>
+    </item>
+    <item>
+      <ip-address>192.168.72.129</ip-address>
+      <mac-address>000C291F5DF2</mac-address>
+      <response-time>15</response-time>
+      <hostname/>
+      <langroup/>
+      <os>Unknown platform (0x0)</os>
+      <tod/>
+      <uptime/>
+      <users/>
+      <dns/>
+      <tftp/>
+      <ntp/>
+      <nbns/>
+      <mssql/>
+      <httpbanner/>
+      <ttl/>
+      <ssl/>
+      <snmp>
+        <nombre-de-host/>
+      </snmp>
+      <registry>
+        <versión-bios/>
+        <propietario-registrado/>
+        <versión-de-windows/>
+      </registry>
+      <remxml>
+        <título-de-página-html>Cannot connect to server on host '192.168.72.129': Connection timed out</título-de-página-html>
+      </remxml>
+      <powershell>
+        <versión-de-servidor-sql>Error: [192.168.72.129] Error de conexión al servidor remoto 192.168.72.129. Mensaje de error: El cliente WinRM no puede, procesar la solicitud. Si el esquema de autenticación es distinto de Kerberos o si el equipo cliente no está unido a, un dominio, se debe usar el transporte HTTPS o agregar el equipo de destino al valor de configuración TrustedHosts., Use winrm.cmd para configurar TrustedHosts. Tenga en cuenta que es posible que no se autentiquen los equipos de la, lista TrustedHosts. Para obtener más información, ejecute el siguiente comando: winrm help config. Para obtener más, información, consulte el tema de la Ayuda about_Remote_Troubleshooting., + CategoryInfo          : OpenError: (192.168.72.129:String) [], PSRemotingTransportException, + FullyQualifiedErrorId : ServerNotTrusted,PSSessionStateBroken</versión-de-servidor-sql>
+      </powershell>
+      <ssh>
+        <versión-de-sistema/>
+      </ssh>
+      <scripting>
+        <ejemplo-dns-incorporado/>
+        <dirección-localhost>192.168.72.1</dirección-localhost>
+        <configuración-ip-y-mac>El servidor remoto no existe o no está disponible: 'GetObject'</configuración-ip-y-mac>
+      </scripting>
+      <virtual>
+        <concatenación-simple>00-0C-29-1F-5D-F2 192.168.72.129</concatenación-simple>
+      </virtual>
+    </item>
+  </devices>
+</network-scanner-result>
