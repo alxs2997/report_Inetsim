@@ -1,0 +1,45 @@
+=== Report for session '43823' ===
+
+Real start date            : 2022-11-11 20:49:02
+Simulated start date       : 2022-11-11 20:49:02
+Time difference on startup : none
+
+2022-11-11 21:01:25  First simulated date in log file
+2022-11-11 21:01:25  DNS connection, type: A, class: IN, requested name: g.live.com
+2022-11-11 21:01:28  DNS connection, type: A, class: IN, requested name: umwatson.events.data.microsoft.com
+2022-11-11 21:01:30  DNS connection, type: A, class: IN, requested name: www.bing.com
+2022-11-11 21:01:30  DNS connection, type: A, class: IN, requested name: wpad.localdomain
+2022-11-11 21:01:30  DNS connection, type: A, class: IN, requested name: wpad.localdomain
+2022-11-11 21:01:31  DNS connection, type: A, class: IN, requested name: login.microsoftonline.com
+2022-11-11 21:01:32  DNS connection, type: A, class: IN, requested name: fp.msedge.net
+2022-11-11 21:01:36  DNS connection, type: A, class: IN, requested name: settings-win.data.microsoft.com
+2022-11-11 21:01:36  DNS connection, type: A, class: IN, requested name: cdn.onenote.net
+2022-11-11 21:01:36  DNS connection, type: A, class: IN, requested name: tile-service.weather.microsoft.com
+2022-11-11 21:01:37  DNS connection, type: A, class: IN, requested name: api.msn.com
+2022-11-11 21:01:37  DNS connection, type: A, class: IN, requested name: login.live.com
+2022-11-11 21:01:37  DNS connection, type: A, class: IN, requested name: slscr.update.microsoft.com
+2022-11-11 21:01:39  DNS connection, type: A, class: IN, requested name: inference.location.live.net
+2022-11-11 21:01:52  DNS connection, type: A, class: IN, requested name: config.teams.microsoft.com
+2022-11-11 21:01:57  DNS connection, type: A, class: IN, requested name: www.msftconnecttest.com
+2022-11-11 21:01:59  DNS connection, type: A, class: IN, requested name: au.download.windowsupdate.com
+2022-11-11 21:02:20  DNS connection, type: A, class: IN, requested name: ctldl.windowsupdate.com
+2022-11-11 21:02:29  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:02:48  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:03:13  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:03:33  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:04:02  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:04:17  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:04:55  DNS connection, type: A, class: IN, requested name: wpad.localdomain
+2022-11-11 21:04:58  DNS connection, type: A, class: IN, requested name: translate.googleapis.com
+2022-11-11 21:04:58  DNS connection, type: A, class: IN, requested name: variations.brave.com
+2022-11-11 21:04:58  DNS connection, type: A, class: IN, requested name: laptop-updates.brave.com
+2022-11-11 21:05:00  DNS connection, type: A, class: IN, requested name: go-updater.brave.com
+2022-11-11 21:05:03  DNS connection, type: A, class: IN, requested name: a.fsdn.com
+2022-11-11 21:05:04  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:05:09  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:05:17  DNS connection, type: A, class: IN, requested name: facebook.com
+2022-11-11 21:05:48  DNS connection, type: A, class: IN, requested name: dns.msftncsi.com
+2022-11-11 21:05:55  DNS connection, type: A, class: IN, requested name: p3a-json.brave.com
+2022-11-11 21:05:55  Last simulated date in log file
+
+===
